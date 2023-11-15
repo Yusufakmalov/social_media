@@ -1,4 +1,4 @@
-from fastapi  import APIRouter, UploadFile
+from fastapi import APIRouter, UploadFile
 
 from post import PublicPostValidator, EditPostValidator
 
